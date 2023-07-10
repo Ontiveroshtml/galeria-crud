@@ -1,0 +1,1 @@
+DELETE http://localhost:9000/images/delete/5 HTTP/1.1
